@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R2 Old Footprint=RES-1/4W New Footprint=RES-1/8W-SMALL
+Added Member To Class: ClassName=Final_Embedded Member=Component C8 104
+Added Member To Class: ClassName=Final_Embedded Member=Component C9 47uF
+Added Member To Class: ClassName=Final_Embedded Member=Component U3 NRF24
+Added Room: Name=Final_Embedded
