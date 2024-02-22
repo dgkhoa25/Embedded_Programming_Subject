@@ -9,6 +9,6 @@ The name of project is "Designing a remote vehicle control model via rf and blue
   - Give team members the opportunity to learn basic wireless protocol standards and hardware programming for the system.
 
 ******************************** VIDEO DEMO ********************************
-
+ 
 Link Youtube: https://youtu.be/idwfzNZjZEc?si=ZoLyBULExPPUORM8
 
